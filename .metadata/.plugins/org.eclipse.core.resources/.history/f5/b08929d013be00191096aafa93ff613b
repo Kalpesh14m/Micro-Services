@@ -1,0 +1,28 @@
+package com.kalpesh.microservice.movieinfoservice.models;
+
+public class Movie {
+	private String name;
+	private String movieId;
+
+	public Movie(String name, String movieId2) {
+		this.name = name;
+		this.movieId = movieId2;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getMovieId() {
+		return movieId;
+	}
+
+	public void setMovieId(int movieId) {
+		this.movieId = movieId;
+	}
+
+}

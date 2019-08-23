@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Movie.java&apos; to &apos;movie-catlogs-service/src/main/java/com.kalpesh.microservice.moviecatlogsservice.models&apos;&#x0A;- Original project: &apos;movie-info-service&apos;&#x0A;- Destination element: &apos;movie-catlogs-service/src/main/java/com.kalpesh.microservice.moviecatlogsservice.models&apos;&#x0A;- Original element: &apos;com.kalpesh.microservice.movieinfoservice.models.Movie.java&apos;" description="Copy compilation unit" destination="=movie-catlogs-service/src\/main\/java&lt;com.kalpesh.microservice.moviecatlogsservice.models" element1="/src\/main\/java&lt;com.kalpesh.microservice.movieinfoservice.models{Movie.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565733871355" units="1" version="1.0"/>
+</session>

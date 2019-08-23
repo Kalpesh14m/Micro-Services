@@ -1,0 +1,5 @@
+package com.kalpesh.microservice.movieinfoservice.resource;
+
+public class MovieResource {
+
+}

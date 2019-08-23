@@ -1,0 +1,15 @@
+package com.kalpesh.microservice.moviecatlogsservice.resource;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.kalpesh.microservice.moviecatlogsservice.models.CatlogItem;
+
+@RestController
+public class MovieCatlogResource {
+
+	public List<CatlogItem> getCatlog(String userId) {
+
+	}
+}

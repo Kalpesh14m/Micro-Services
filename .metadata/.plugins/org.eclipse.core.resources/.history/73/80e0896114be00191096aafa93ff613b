@@ -1,0 +1,5 @@
+package com.kalpesh.microservice.ratingdataservice.resource;
+
+public class RatingResource {
+
+}

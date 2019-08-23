@@ -1,0 +1,5 @@
+package com.kalpesh.microservice.moviecatlogsservice.resource;
+
+public class MovieCatlogResource {
+
+}

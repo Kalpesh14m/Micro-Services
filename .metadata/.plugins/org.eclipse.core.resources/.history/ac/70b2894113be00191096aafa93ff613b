@@ -1,0 +1,5 @@
+package com.kalpesh.microservice.movieinfoservice.models;
+
+public class Movie {
+
+}

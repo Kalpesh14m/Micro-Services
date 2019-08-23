@@ -1,0 +1,26 @@
+package com.kalpesh.microservice.moviecatlogsservice.resource;
+
+import java.util.Collections;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.kalpesh.microservice.moviecatlogsservice.models.CatlogItem;
+
+@RestController
+@RequestMapping("/catalog")
+public class MovieCatlogResource {
+
+	@RequestMapping("/{userId}")
+	public List<CatlogItem> getCatlog(@PathVariable("userId") String userId) {
+
+		// 1.get all rated movies ID
+
+		// 2.For eache movie Id, call movie info service and get details
+
+		// .3Put them all together
+		// return Collections.singletonList(new CatlogItem("abc", "good", 4));
+	}
+}
