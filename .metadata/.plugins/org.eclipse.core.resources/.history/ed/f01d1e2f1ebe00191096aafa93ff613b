@@ -1,5 +1,0 @@
-package com.kalpesh.microservice.ratingdataservice.models;
-
-public class UserRatings {
-
-}

@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/abc/Documents/docker_init/.git\:
-GitRepositoriesView.GitDirectories.relative=/home/abc/Documents/docker_init/.git\:
+GitRepositoriesView.GitDirectories=/home/abc/Kalpesh/Java Code/Learning Microservice/.git\:/home/abc/Documents/docker_init/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/home/abc/Documents/docker_init/.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

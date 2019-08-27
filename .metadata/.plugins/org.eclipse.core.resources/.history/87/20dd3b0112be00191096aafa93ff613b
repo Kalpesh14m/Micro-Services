@@ -1,9 +1,0 @@
-package com.kalpesh.microservice.moviecatlogsservice.models;
-
-public class CatlogItem {
-
-	private String name;
-	private String desc;
-	private int rating;
-
-}
